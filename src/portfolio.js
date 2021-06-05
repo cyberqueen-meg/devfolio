@@ -531,7 +531,7 @@ const techStack = {
       progressPercentage: "40%"
     },
     {
-      Stack: "Penetration Testing"
+      Stack: "Penetration Testing",
       progressPercentage: "35%"
     },
   ],
