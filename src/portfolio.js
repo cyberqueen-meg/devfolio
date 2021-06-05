@@ -22,7 +22,7 @@ const greeting = {
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/mhowell11,
+  github: "https://github.com/mhowell11",
   linkedin: "https://www.linkedin.com/in/megan-howell-cybersecurity",
   gmail: "meganghowell@gmail.com",
   display: true // Set true to display this section, defaults to false
